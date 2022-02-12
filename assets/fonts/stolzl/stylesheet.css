@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Stolzl';
+    src: url('/assets/fonts/stolzl/StolzlDisplay-Regular.eot');
+    src: local('Stolzl Display Regular'), local('StolzlDisplay-Regular'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Regular.woff2') format('woff2'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Regular.woff') format('woff'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stolzl';
+    src: url('/assets/fonts/stolzl/StolzlDisplay-Normal.eot');
+    src: local('Stolzl Display Normal'), local('StolzlDisplay-Normal'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Normal.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Normal.woff2') format('woff2'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Normal.woff') format('woff'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Normal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stolzl';
+    src: url('/assets/fonts/stolzl/StolzlDisplay-Light.eot');
+    src: local('Stolzl Display Light'), local('StolzlDisplay-Light'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Light.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Light.woff2') format('woff2'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Light.woff') format('woff'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stolzl';
+    src: url('/assets/fonts/stolzl/StolzlDisplay-Medium.eot');
+    src: local('Stolzl Display Medium'), local('StolzlDisplay-Medium'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Medium.woff2') format('woff2'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Medium.woff') format('woff'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stolzl';
+    src: url('/assets/fonts/stolzl/StolzlDisplay-Bold.eot');
+    src: local('Stolzl Display Bold'), local('StolzlDisplay-Bold'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Bold.woff2') format('woff2'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Bold.woff') format('woff'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stolzl';
+    src: url('/assets/fonts/stolzl/StolzlDisplay-Thin.eot');
+    src: local('Stolzl Display Thin'), local('StolzlDisplay-Thin'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Thin.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Thin.woff2') format('woff2'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Thin.woff') format('woff'),
+        url('/assets/fonts/stolzl/StolzlDisplay-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
